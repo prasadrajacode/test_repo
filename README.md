@@ -7,4 +7,4 @@ Edited from the VS Code local
 For conflict
 For Git graph
 For Git Graph 1
-
+For Git lens
